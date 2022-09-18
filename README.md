@@ -1,7 +1,7 @@
 # Squad Lovelace
-<hr>
-    <h2 style="text-align: center; font-weight: 600">SDTO - Sistema de Difusão e Controle de Doações e Transplantes de Órgãos</h2>
-<hr>
+<div align="center">
+    <h2>SDTO - Sistema de Difusão e Controle de Doações e Transplantes de Órgãos</h2>
+</div>
 
 ### **Sobre o projeto**
 
