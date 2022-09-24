@@ -1,7 +1,11 @@
-# Squad Lovelace
-<div align="center">
-    <h2>SDTO - Sistema de Difusão e Controle de Doações e Transplantes de Órgãos</h2>
-</div>
+<h1 align=center>Squad Lovelace</h1>
+
+<h1 align=center>
+    <img src="img/lovelace-logo.png" />
+</h1>
+
+<h2 align=center>SDTO - Sistema de Difusão e Controle de Doações e Transplantes de Órgãos</h2>
+<br>
 
 ### **Sobre o projeto**
 
@@ -18,3 +22,13 @@ pouca discussão sobre o assunto. Em 2020, devido à pandemia, a Associação Br
 Transplantes de Órgãos (ABTO), divulgou que o número de doações caiu e a taxa de mortalidade de quem está na fila de espera aumentou de 10% a 30%.</p>
 
 <p>Diante do exposto o presente projeto tem como objetivo desenvolver um sistema que irá ajudar a difundir a doação e transplante de órgãos, como também formar uma comunidade de doadores e pessoas interessadas na temática.</p>
+
+### **Modelo Conceitual**
+<br>
+
+<img src="assets/modelo_conceitual.svg" />
+
+### **Modelo Lógico**
+<br>
+
+<img src="assets/modelo_logico.svg" />
